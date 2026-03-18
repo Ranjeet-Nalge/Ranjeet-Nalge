@@ -1,7 +1,7 @@
 # Hi, I'm Ranjeet 👋
 
 ## 🚀 About Me
-Python developer with 3+ years of hands-on experience building RESTful APIs, developing backend systems in Flask, and working with SQL databases, 
+Python developer with 3+ years of hands-on experience building RESTful APIs, developing backend systems in using Django REST Framework and FastAPI, and working with SQL databases, 
 ORM(SQLAlchemy). Strong foundation in Object-Oriented Programming (OOP) and data structures. Skilled at debugging, collaboration in Agile teams,
 and writing clean, efficient code
 
@@ -9,7 +9,7 @@ and writing clean, efficient code
 
 **Languages & Frameworks:**
 - Python (Core & Advanced)
-- Flask, FastAPI
+- Django REST Framework , FastAPI
 - SQLAlchemy ORM
 
 **Databases:**
@@ -23,16 +23,12 @@ and writing clean, efficient code
 - Agile/Scrum Methodologies
 
 ## 🔧 What I Do
-- Build RESTful APIs with Flask and FastAPI
+- Build RESTful APIs with Django REST Framework and FastAPI
 - Design and optimize database schemas
 - Implement microservices architecture
 - Write clean, maintainable, and scalable code
 - Apply OOP principles and design patterns
 
-## 📊 Highlights
-- Improved API response time by 65% through optimization
-- Reduced manual errors by 70% with automated validation
-- Maintained 90%+ code coverage with comprehensive testing
 
 ## 📫 Connect With Me
 - 📧 Email: ranjeet7nalge@gmail.com
