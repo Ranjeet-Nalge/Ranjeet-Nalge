@@ -1,40 +1,78 @@
 # Hi, I'm Ranjeet 👋
 
-## 🚀 About Me
-Python developer with 3+ years of hands-on experience building RESTful APIs, developing backend systems in using Django REST Framework and FastAPI, and working with SQL databases, 
-ORM(SQLAlchemy). Strong foundation in Object-Oriented Programming (OOP) and data structures. Skilled at debugging, collaboration in Agile teams,
-and writing clean, efficient code
+Python backend developer with 3+ years of experience building REST APIs and backend systems using Django, FastAPI, and MySQL.
 
-## 💻 Tech Stack
-
-**Languages & Frameworks:**
-- Python (Core & Advanced)
-- Django REST Framework , FastAPI
-- SQLAlchemy ORM
-
-**Databases:**
-- MySQL
-- Database Design & Optimization
-
-**Tools & Technologies:**
-- Git & GitHub
-- Postman, Swagger
-- REST API Development
-- Agile/Scrum Methodologies
-
-## 🔧 What I Do
-- Build RESTful APIs with Django REST Framework and FastAPI
-- Design and optimize database schemas
-- Implement microservices architecture
-- Write clean, maintainable, and scalable code
-- Apply OOP principles and design patterns
-
-
-## 📫 Connect With Me
-- 📧 Email: ranjeet7nalge@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ranjeet-nalge-python](https://www.linkedin.com/in/ranjeet-nalge-python/)
-- 📍 Location: Pune, India
+I enjoy working on API development, database design, debugging backend issues, and improving application performance. Currently focusing on Docker, deployment workflows, and scalable backend architecture.
 
 ---
 
-💼 **Currently open to new opportunities in Python Backend Development**
+## Tech Stack
+
+### Backend
+- Python
+- Django
+- FastAPI
+- REST APIs
+- SQLAlchemy ORM
+
+### Database
+- MySQL
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Postman
+- Swagger/OpenAPI
+- Linux Basics
+
+---
+
+## Currently Working On
+
+- Building backend projects using FastAPI
+- Dockerizing and deploying applications on EC2
+- Improving debugging and backend optimization skills
+- Learning scalable backend architecture
+
+---
+
+## Featured Projects
+
+### URL Shortener API
+FastAPI-based URL shortener service with:
+- Redirect handling
+- Click analytics
+- MySQL integration
+- Docker support
+
+### Expense Management API
+Backend system for managing expenses with:
+- JWT Authentication
+- Role-based access
+- SQLAlchemy ORM
+- MySQL database
+
+### Patient Management API
+REST API project for managing patient records and backend operations.
+
+---
+
+## What I Like Working On
+
+- Backend API development
+- Database schema design
+- Debugging production issues
+- Writing clean and maintainable backend code
+- Learning real-world backend workflows
+
+---
+
+## Connect With Me
+
+- 📍 Pune, India
+- 📧 ranjeet7nalge@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/ranjeet-nalge-python
+
+---
+
+⭐ Currently open to Python Backend Developer opportunities
