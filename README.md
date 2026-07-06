@@ -1,78 +1,134 @@
 # Hi, I'm Ranjeet 👋
 
-Python backend developer with 3+ years of experience building REST APIs and backend systems using Django, FastAPI, and MySQL.
+Python Backend Developer with 3+ years of experience building REST APIs and backend applications using Python, Django, Django REST Framework, FastAPI and PostgreSQL.
 
-I enjoy working on API development, database design, debugging backend issues, and improving application performance. Currently focusing on Docker, deployment workflows, and scalable backend architecture.
+I enjoy designing backend systems, building scalable APIs, debugging production issues and improving application performance. Currently focused on writing clean backend code, Dockerizing applications and strengthening backend architecture.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Backend
+## Backend
+
 - Python
 - Django
+- Django REST Framework
 - FastAPI
 - REST APIs
-- SQLAlchemy ORM
+- SQLAlchemy
+- JWT Authentication
 
-### Database
+## Database
+
+- PostgreSQL
 - MySQL
 
-### Tools & Technologies
-- Git & GitHub
+## Tools
+
+- Git
+- GitHub
 - Docker
 - Postman
-- Swagger/OpenAPI
+- Swagger / OpenAPI
 - Linux Basics
 
 ---
 
-## Currently Working On
+# Featured Projects
 
-- Building backend projects using FastAPI
-- Dockerizing and deploying applications on EC2
-- Improving debugging and backend optimization skills
-- Learning scalable backend architecture
+## 🎫 Support Ticket Management API
 
----
+A RESTful backend application for managing support tickets.
 
-## Featured Projects
+### Features
 
-### URL Shortener API
-FastAPI-based URL shortener service with:
-- Redirect handling
-- Click analytics
-- MySQL integration
-- Docker support
-
-### Expense Management API
-Backend system for managing expenses with:
 - JWT Authentication
-- Role-based access
+- CRUD APIs
+- PostgreSQL
+- Docker
+- Filtering
+- Search
+- Ordering
+- Pagination
+- User-specific ticket ownership
+
+Repository:
+
+➡️ https://github.com/Ranjeet-Nalge/support-ticket-system
+
+---
+
+## 📝 Employee Leave Management API
+
+Backend application for managing employee leave requests.
+
+### Features
+
+- JWT Authentication
+- CRUD APIs
+- PostgreSQL
+- Docker
+- Leave validation
+- Filtering
+- Search
+- Ordering
+- Pagination
+- Employee-specific leave management
+
+Repository:
+
+➡️ https://github.com/Ranjeet-Nalge/employee_leave_management_system
+
+---
+
+## 🔗 URL Shortener API
+
+FastAPI backend service for generating and managing short URLs.
+
+### Features
+
+- Short URL generation
+- Redirect handling
+- MySQL
+- Docker
+- AWS EC2 Deployment
+
+---
+
+## 💰 Expense Management API
+
+Expense management backend application.
+
+### Features
+
+- JWT Authentication
+- CRUD APIs
+- Expense categories
 - SQLAlchemy ORM
-- MySQL database
-
-### Patient Management API
-REST API project for managing patient records and backend operations.
+- Docker
 
 ---
 
-## What I Like Working On
+# Currently Learning
 
-- Backend API development
-- Database schema design
-- Debugging production issues
-- Writing clean and maintainable backend code
-- Learning real-world backend workflows
-
----
-
-## Connect With Me
-
-- 📍 Pune, India
-- 📧 ranjeet7nalge@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/ranjeet-nalge-python
+- Advanced Django REST Framework
+- PostgreSQL Query Optimization
+- Docker & Deployment
+- CI/CD Basics
+- Backend System Design
 
 ---
 
-⭐ Currently open to Python Backend Developer opportunities
+# Connect With Me
+
+📍 Pune, India
+
+📧 ranjeet7nalge@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/ranjeet-nalge-python
+
+---
+
+⭐ Open to Python Backend Developer opportunities.
