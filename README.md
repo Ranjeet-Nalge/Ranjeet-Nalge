@@ -54,7 +54,7 @@ A RESTful backend application for managing support tickets.
 
 Repository:
 
-➡️ https://github.com/Ranjeet-Nalge/support-ticket-system
+➡️ https://github.com/Ranjeet-Nalge/support-ticket-management-api
 
 ---
 
