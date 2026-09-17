@@ -77,7 +77,7 @@ Backend application for managing employee leave requests.
 
 Repository:
 
-➡️ https://github.com/Ranjeet-Nalge/employee_leave_management_system
+➡️ https://github.com/Ranjeet-Nalge/employee-leave-management-system
 
 ---
 
