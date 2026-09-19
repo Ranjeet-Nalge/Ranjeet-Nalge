@@ -81,33 +81,7 @@ Repository:
 
 ---
 
-## 🔗 URL Shortener API
 
-FastAPI backend service for generating and managing short URLs.
-
-### Features
-
-- Short URL generation
-- Redirect handling
-- MySQL
-- Docker
-- AWS EC2 Deployment
-
----
-
-## 💰 Expense Management API
-
-Expense management backend application.
-
-### Features
-
-- JWT Authentication
-- CRUD APIs
-- Expense categories
-- SQLAlchemy ORM
-- Docker
-
----
 
 # Currently Learning
 
